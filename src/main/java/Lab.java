@@ -46,7 +46,7 @@ public class Lab {
     /**
      * @param a the first number to be compared.
      * @param b the second number to be compared.
-     * @return true if a is greater than or equal to b, false otherwise.
+     * @return true if a is greater than or equal to b, false otherwise. 
      */
     public boolean greaterThanOrEqualTo(int a, int b){
         return a >= b;
